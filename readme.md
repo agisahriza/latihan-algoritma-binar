@@ -17,3 +17,5 @@ hasil = 2 * jariJari * pi
 
 PRINT(hasil)
 
+## flowchart
+![flowchart](flowchart.png)
